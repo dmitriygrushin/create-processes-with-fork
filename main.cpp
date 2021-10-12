@@ -1,5 +1,3 @@
-//DMITRIY GRUSHIN [OPERATING SYSTEMS]
-
 #include <iostream>
 #include <sys/wait.h>
 #include <unistd.h>
